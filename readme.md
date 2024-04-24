@@ -12,9 +12,5 @@
 ### 🔨 **Ferramentas**:
 ![Figma](https://img.shields.io/badge/Figma-%23071329?style=flat&logo=figma&logoColor=%23F24E1E) ![Git](https://img.shields.io/badge/Git-%23071329?style=flat&logo=git&logoColor=%23F05032)
 
-### 📚 **Plano de Estudos**:
-![React](https://img.shields.io/badge/ReactJS-%23071329?style=flat&logo=react&logoColor=%2361DAFB) ![MySQL](https://img.shields.io/badge/MySQL-%23071329?style=flat&logo=mysql&logoColor=%234479A1)
-
-
 ### 📑 **Sobre mim**:
 - Tenho 18 anos, comecei meus estudos na área de Engenharia de Software em fevereiro de 2024, assim como os estudos na FIAP, sempre gostei de me envolver com a tecnologia e no final de 2023 decidi que essa seria a área na qual eu iria trabalhar, estou e estarei sempre disposto a me atualizar sobre novas tendencias do mercado e sou uma pessoa que facilmente aceita críticas, procurando evoluir cada vez mais, como uma pessoa e profissional.
