@@ -6,12 +6,8 @@
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=leonardorscarpitta&show_icons=true&theme=radical)
 
-### 👨‍💻 **Linguagens Utilizadas**:
+### 👨‍💻 **Linguagens utilizadas atualmente**:
 ![Java](https://img.shields.io/badge/Java-%23071329?style=flat&logo=intellijidea&logoColor=%233776AB) ![Python](https://img.shields.io/badge/Python-%23071329?style=flat&logo=python&logoColor=%233776AB) ![C++](https://img.shields.io/badge/C++-%23071329?style=flat&logo=cplusplus&logoColor=%2300599C)
-
-![JS](https://img.shields.io/badge/JS-%23071329?style=flat&logo=javascript&logoColor=%23F7DF1E) 
-
-![HTML5](https://img.shields.io/badge/HTML5-%23071329?style=flat&logo=html5&logoColor=%23E34F26) ![CSS3](https://img.shields.io/badge/CSS3-%23071329?style=flat&logo=css3&logoColor=%231572B6) 
 
 ### 🌐 **Softwares**:
 ![Figma](https://img.shields.io/badge/Figma-%23071329?style=flat&logo=figma&logoColor=%23F24E1E) ![Git](https://img.shields.io/badge/Git-%23071329?style=flat&logo=git&logoColor=%23F05032) ![Arduino](https://img.shields.io/badge/Arduino-%23071329?style=flat&logo=arduino&logoColor=%2300878F)
