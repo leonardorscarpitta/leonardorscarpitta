@@ -10,17 +10,20 @@ ___
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=leonardorscarpitta&show_icons=true&theme=radical)
 
-### 🌐 **Languages and Softwares that I'm currently using**:
-![Static Badge](https://img.shields.io/badge/Java%20-%20%23141e32?style=flat&logo=intellijidea&logoColor=%23FFFFFF)
-![Git](https://img.shields.io/badge/Git-%23071329?style=flat&logo=git&logoColor=%23F05032)
-![Static Badge](https://img.shields.io/badge/HTML5%20-%20%23141e32?style=flat&logo=html5&logoColor=%23E34F26) 
+### 🌐 **Languages, Softwares and tools that I'm currently using**:
+![Static Badge](https://img.shields.io/badge/HTML5%20-%20%23141e32?style=flat&logo=html5&logoColor=%23E34F26) <br>
 ![Static Badge](https://img.shields.io/badge/CSS3%20-%20%23141e32?style=flat&logo=CSS3&logoColor=%231572B6)
-![Static Badge](https://img.shields.io/badge/JavaScript%20-%20%23141e32?style=flat&logo=javascript&logoColor=%23F7DF1E) 
-![Static Badge](https://img.shields.io/badge/Python%20-%20%23141e32?style=flat&logo=python&logoColor=%233776AB)
-<br>![Figma](https://img.shields.io/badge/Figma-%23071329?style=flat&logo=figma&logoColor=%23F24E1E) 
+![Static Badge](https://img.shields.io/badge/TailwindCSS%20-%20%23141e32?style=flat&logo=tailwindcss&logoColor=%2306B6D4) <br>
+![Static Badge](https://img.shields.io/badge/JavaScript%20-%20%23141e32?style=flat&logo=javascript&logoColor=%23F7DF1E)
+![Static Badge](https://img.shields.io/badge/ReactJS%20-%20%23141e32?style=flat&logo=react&logoColor=%23#61DAFB) <br>
+![Git](https://img.shields.io/badge/Git-%23071329?style=flat&logo=git&logoColor=%23F05032) <br>
+![Figma](https://img.shields.io/badge/Figma-%23071329?style=flat&logo=figma&logoColor=%23F24E1E) <br>
 
 ### 👨‍💻 **Languages and Softwares I have a basic knowledge**: 
-![Static Badge](https://img.shields.io/badge/C%20-%20%23141e32?style=flat&logo=c&logoColor=%23A8B9CC) ![Static Badge](https://img.shields.io/badge/C%2B%2B%20-%20%23141e32?style=flat&logo=cplusplus&logoColor=%2300599C)
+![Static Badge](https://img.shields.io/badge/Java%20-%20%23141e32?style=flat&logo=intellijidea&logoColor=%23FFFFFF)
+![Static Badge](https://img.shields.io/badge/Python%20-%20%23141e32?style=flat&logo=python&logoColor=%233776AB)
+![Static Badge](https://img.shields.io/badge/C%20-%20%23141e32?style=flat&logo=c&logoColor=%23A8B9CC) 
+![Static Badge](https://img.shields.io/badge/C%2B%2B%20-%20%23141e32?style=flat&logo=cplusplus&logoColor=%2300599C)
 
 
 ### 🇬🇧 **About Me**:
