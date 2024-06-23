@@ -15,7 +15,8 @@ ___
 ![Static Badge](https://img.shields.io/badge/CSS3%20-%20%23141e32?style=flat&logo=CSS3&logoColor=%231572B6)
 ![Static Badge](https://img.shields.io/badge/TailwindCSS%20-%20%23141e32?style=flat&logo=tailwindcss&logoColor=%2306B6D4) <br>
 ![Static Badge](https://img.shields.io/badge/JavaScript%20-%20%23141e32?style=flat&logo=javascript&logoColor=%23F7DF1E)
-![Static Badge](https://img.shields.io/badge/ReactJS%20-%20%23141e32?style=flat&logo=react&logoColor=%23#61DAFB) <br>
+![Static Badge](https://img.shields.io/badge/ReactJS%20-%20%23141e32?style=flat&logo=react&logoColor=%23#61DAFB) 
+![Static Badge](https://img.shields.io/badge/TypeScript%20-%20%23141e32?style=flat&logo=typescript&logoColor=%233178C6) <br>
 ![Git](https://img.shields.io/badge/Git-%23071329?style=flat&logo=git&logoColor=%23F05032) <br>
 ![Figma](https://img.shields.io/badge/Figma-%23071329?style=flat&logo=figma&logoColor=%23F24E1E) <br>
 
