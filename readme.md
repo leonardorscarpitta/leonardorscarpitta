@@ -1,17 +1,21 @@
-### 💻 **Studying to become a Developer**
-### 🖐 **It's a pleasure, I'm Léo!**
+### 💻 **Estudante de Engenharia de Software**
+### 🖐 **È um prazer! Sou o Léo.**
 ### [🧑‍💻 My Projects](https://github.com/leonardorscarpitta?tab=repositories)
 
 ___
+> [!NOTE]
+> In case not beeing a portuguese speaker, use the default navigator translate tool!
 
-### 📱 **Social Media**:
+___
+
+### 📱 **Redes Sociais**:
 [![LINKEDIN](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/leonardo-rocha-scarpitta-26a28629b/)
 [![INSTAGRAM](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/leonardo.rscarpitta)
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=leonardorscarpitta&show_icons=true&theme=jolly)
 
 ___
-### 🌐 **Languages, Softwares and tools that I'm currently using**:
+### 🌐 **Linguagens e Softwares que utilizo no momento**:
 ![Static Badge](https://img.shields.io/badge/HTML5%20-%20%23141e32?style=flat&logo=html5&logoColor=%23E34F26) <br>
 ![Static Badge](https://img.shields.io/badge/CSS3%20-%20%23141e32?style=flat&logo=CSS3&logoColor=%231572B6) 
 ![Static Badge](https://img.shields.io/badge/Sass%20-%20%23141e32?style=flat&logo=sass&logoColor=%23CC6699) <br>
@@ -23,12 +27,18 @@ ___
 ![Figma](https://img.shields.io/badge/Figma-%23071329?style=flat&logo=figma&logoColor=%23F24E1E) <br>
 
 ___
-### 👨‍💻 **Languages and Softwares I have a basic knowledge**: 
+### 👨‍💻 **Languages e Softwares que eu tenho um certo conhecimento**: 
 ![Static Badge](https://img.shields.io/badge/TailwindCSS%20-%20%23141e32?style=flat&logo=tailwindcss&logoColor=%2306B6D4)
 ![Static Badge](https://img.shields.io/badge/Java%20-%20%23141e32?style=flat&logo=intellijidea&logoColor=%23FFFFFF)
 ![Static Badge](https://img.shields.io/badge/Python%20-%20%23141e32?style=flat&logo=python&logoColor=%233776AB)
 ![Static Badge](https://img.shields.io/badge/C%20-%20%23141e32?style=flat&logo=c&logoColor=%23A8B9CC) 
 ![Static Badge](https://img.shields.io/badge/C%2B%2B%20-%20%23141e32?style=flat&logo=cplusplus&logoColor=%2300599C)
+
+___
+### 🇧🇷 **Sobre Mim**:
+
+- Nasci em 2005, atualmente estou graduando Engenharia de Software na FIAP e a princípio pretendo me tornar um Desenvolvedor Java, estou sempre disposto a me atualizar conforme as necessidades do mercado e aceitar críticas para evoluir cada vez mais! Comecei meus estudos em Fevereiro de 2024 pela própria faculdade e com auxílio da plataforma Alura.Prazer, me chamo Leonardo, nasci em 2005, atualmente estou graduando Engenharia de Software na FIAP e a princípio pretendo me tornar um Desenvolvedor Java, estou sempre disposto a me atualizar conforme as necessidades do mercado e aceitar críticas para evoluir cada vez mais! Comecei meus estudos em Fevereiro de 2024 pela própria faculdade e com auxílio da plataforma Alura.
+- Apesar do foco em Desenvolvimento de Software, também tenho um bom conhecimento em metodologias ágeis como o Scrum!
 
 
 ___
@@ -37,14 +47,8 @@ ___
 - Despite the Software Developer goal, I have a good knowledge In agile methodologies such as Scrum!
 
 ___
-### 🇧🇷 **Sobre Mim**:
-
-- Nasci em 2005, atualmente estou graduando Engenharia de Software na FIAP e a princípio pretendo me tornar um Desenvolvedor Java, estou sempre disposto a me atualizar conforme as necessidades do mercado e aceitar críticas para evoluir cada vez mais! Comecei meus estudos em Fevereiro de 2024 pela própria faculdade e com auxílio da plataforma Alura.Prazer, me chamo Leonardo, nasci em 2005, atualmente estou graduando Engenharia de Software na FIAP e a princípio pretendo me tornar um Desenvolvedor Java, estou sempre disposto a me atualizar conforme as necessidades do mercado e aceitar críticas para evoluir cada vez mais! Comecei meus estudos em Fevereiro de 2024 pela própria faculdade e com auxílio da plataforma Alura.
-- Apesar do foco em Desenvolvimento de Software, também tenho um bom conhecimento em metodologias ágeis como o Scrum!
-
-___
 <details>
-  <summary>⚙ VSCode config (JSON)</summary>
+  <summary>⚙ Configurações do VSCode (JSON)</summary>
 
   ```
 {
