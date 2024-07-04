@@ -37,14 +37,14 @@ ___
 ___
 ### 🇧🇷 **Sobre Mim**:
 
-- Nasci em 2005, atualmente estou graduando Engenharia de Software na FIAP e a princípio pretendo me tornar um Desenvolvedor Java, estou sempre disposto a me atualizar conforme as necessidades do mercado e aceitar críticas para evoluir cada vez mais! Comecei meus estudos em Fevereiro de 2024 pela própria faculdade e com auxílio da plataforma Alura.Prazer, me chamo Leonardo, nasci em 2005, atualmente estou graduando Engenharia de Software na FIAP e a princípio pretendo me tornar um Desenvolvedor Java, estou sempre disposto a me atualizar conforme as necessidades do mercado e aceitar críticas para evoluir cada vez mais! Comecei meus estudos em Fevereiro de 2024 pela própria faculdade e com auxílio da plataforma Alura.
-- Apesar do foco em Desenvolvimento de Software, também tenho um bom conhecimento em metodologias ágeis como o Scrum!
+- Nasci em 2005, atualmente estou graduando Engenharia de Software na FIAP e a princípio pretendo me tornar um Desenvolvedor Web, estou sempre disposto a me atualizar conforme as necessidades do mercado e aceitar críticas para evoluir cada vez mais! Comecei meus estudos em Fevereiro de 2024 pela própria faculdade e com auxílio da plataforma Alura.
+- Apesar do foco em Desenvolvimento Web, também tenho um bom conhecimento em metodologias ágeis como o Scrum!
 
 
 ___
 ### 🇬🇧 **About Me**:
 - I was born In 2005, started my studies In a Bacharel Software Engineer course, have always liked getting involved with technology and at the end of 2023 I decided that this would be the area in which I would work, I am and will always be willing to update myself on new market trends and I am a person who easily accepts criticism, looking to evolve each more and more as a person and professional.
-- Despite the Software Developer goal, I have a good knowledge In agile methodologies such as Scrum!
+- Despite the Web Developer goal, I have a good knowledge In agile methodologies such as Scrum!
 
 ___
 <details>
