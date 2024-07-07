@@ -1,6 +1,6 @@
 ### 💻 **Estudante de Engenharia de Software**
-### 🖐 **È um prazer! Sou o Léo.**
-### [🧑‍💻 My Projects](https://github.com/leonardorscarpitta?tab=repositories)
+### 🖐 **É um prazer! Sou o Léo.**
+### [🧑‍💻 Meus Projetos](https://github.com/leonardorscarpitta?tab=repositories)
 
 ___
 > [!NOTE]
@@ -28,7 +28,7 @@ ___
 ![Figma](https://img.shields.io/badge/Figma-%23071329?style=flat&logo=figma&logoColor=%23F24E1E) <br>
 
 ___
-### 👨‍💻 **Languages e Softwares que eu tenho um certo conhecimento**: 
+### 👨‍💻 **Linguagens e Softwares que eu tenho um certo conhecimento**: 
 ![Static Badge](https://img.shields.io/badge/Java%20-%20%23141e32?style=flat&logo=intellijidea&logoColor=%23FFFFFF)
 ![Static Badge](https://img.shields.io/badge/Python%20-%20%23141e32?style=flat&logo=python&logoColor=%233776AB)
 ![Static Badge](https://img.shields.io/badge/C%20-%20%23141e32?style=flat&logo=c&logoColor=%23A8B9CC) 
