@@ -16,6 +16,7 @@ ___
 
 ___
 ### 🌐 **Linguagens e Softwares que utilizo no momento**:
+![Static Badge](https://img.shields.io/badge/Java%20-%20%23141e32?style=flat&logo=intellijidea&logoColor=%23FFFFFF)
 ![Static Badge](https://img.shields.io/badge/HTML5%20-%20%23141e32?style=flat&logo=html5&logoColor=%23E34F26) <br>
 ![Static Badge](https://img.shields.io/badge/CSS3%20-%20%23141e32?style=flat&logo=CSS3&logoColor=%231572B6) 
 ![Static Badge](https://img.shields.io/badge/TailwindCSS%20-%20%23141e32?style=flat&logo=tailwindcss&logoColor=%2306B6D4)
@@ -29,7 +30,6 @@ ___
 
 ___
 ### 👨‍💻 **Linguagens e Softwares que eu tenho um certo conhecimento**: 
-![Static Badge](https://img.shields.io/badge/Java%20-%20%23141e32?style=flat&logo=intellijidea&logoColor=%23FFFFFF)
 ![Static Badge](https://img.shields.io/badge/Python%20-%20%23141e32?style=flat&logo=python&logoColor=%233776AB)
 ![Static Badge](https://img.shields.io/badge/C%20-%20%23141e32?style=flat&logo=c&logoColor=%23A8B9CC) 
 ![Static Badge](https://img.shields.io/badge/C%2B%2B%20-%20%23141e32?style=flat&logo=cplusplus&logoColor=%2300599C)
@@ -37,14 +37,14 @@ ___
 ___
 ### 🇧🇷 **Sobre Mim**:
 
-- Nasci em 2005, atualmente estou graduando Engenharia de Software na FIAP e a princípio pretendo me tornar um Desenvolvedor Web, estou sempre disposto a me atualizar conforme as necessidades do mercado e aceitar críticas para evoluir cada vez mais! Comecei meus estudos em Fevereiro de 2024 pela própria faculdade e com auxílio da plataforma Alura.
-- Apesar do foco em Desenvolvimento Web, também tenho um bom conhecimento em metodologias ágeis como o Scrum!
+- Nasci em 2005, atualmente estou graduando Engenharia de Software na FIAP e a princípio pretendo me tornar um Desenvolvedor de Software, estou sempre disposto a me atualizar conforme as necessidades do mercado e aceitar críticas para evoluir cada vez mais! Comecei meus estudos em Fevereiro de 2024 pela própria faculdade e com auxílio da plataforma Alura.
+- Apesar do foco em Desenvolvimento de Software, também tenho um bom conhecimento em metodologias ágeis como o Scrum!
 
 
 ___
 ### 🇬🇧 **About Me**:
 - I was born In 2005, started my studies In a Bacharel Software Engineer course, have always liked getting involved with technology and at the end of 2023 I decided that this would be the area in which I would work, I am and will always be willing to update myself on new market trends and I am a person who easily accepts criticism, looking to evolve each more and more as a person and professional.
-- Despite the Web Developer goal, I have a good knowledge In agile methodologies such as Scrum!
+- Despite the Software Developer goal, I have a good knowledge In agile methodologies such as Scrum!
 
 ___
 <details>
