@@ -16,7 +16,7 @@ ___
 
 ___
 ### 🌐 **Minha Stack atual**:
-[![My Skills](https://skillicons.dev/icons?i=java,html,css,js,ts,react,next,linux,aws&perline=4)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=java,spring,html,css,js,ts,react,next,linux,aws&perline=2)](https://skillicons.dev)
 
 ___
 ### 👨‍💻 **Linguagens e Softwares que eu tenho um certo conhecimento**: 
