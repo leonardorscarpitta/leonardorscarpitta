@@ -132,7 +132,7 @@ ____
     "breadcrumbs.enabled": false,
     "workbench.productIconTheme": "fluent-icons",
     "gitlens.codeLens.authors.enabled": false,
-    "editor.tabSize": 4,
+    "editor.tabSize": 2,
     "security.workspace.trust.untrustedFiles": "newWindow",
     "files.exclude": {
         "**\/CVS": true,
@@ -143,7 +143,7 @@ ____
         ".vscode": true
         // "node_modules": true
     },
-    "workbench.iconTheme": "material-icon-theme",
+    "workbench.iconTheme": "symbols",
     "update.mode": "start",
     "terminal.integrated.gpuAcceleration": "off",
     "terminal.integrated.defaultProfile.osx": "zsh",
@@ -307,13 +307,14 @@ ____
             "path": "/usr/bin/bash"
         }
     },
-    "workbench.editor.editorActionsLocation": "titleBar",
     "editor.fontFamily": "Cascadia Code",
     "workbench.list.smoothScrolling": true,
     "editor.smoothScrolling": true,
-    "workbench.colorTheme": "Min Darker Theme (by GmsGarcia)",
     "workbench.layoutControl.enabled": false,
     "window.commandCenter": false,
-}
+    "workbench.editor.showTabs": "none",
+    "workbench.editor.editorActionsLocation": "hidden",
+    "workbench.colorTheme": "Atom One Darker",
+  }
   ```
 </details>
