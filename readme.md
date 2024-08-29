@@ -16,7 +16,7 @@
 
 ____
 #### 💻 **Hard Skills**:
-[![My Skills](https://skillicons.dev/icons?i=java,spring,py,cpp,cs,html,css,js,ts,react,next,linux,aws&perline=10)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=java,spring,py,cpp,cs,html,css,js,ts,react,next,linux,azure&perline=5)](https://skillicons.dev)
 
 ____
 <h4>
