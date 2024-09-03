@@ -43,6 +43,7 @@ ____
 {
     "workbench.startupEditor": "newUntitledFile",
     "editor.fontSize": 14,
+    "terminal.integrated.shell.linux": "/bin/zsh",
     "editor.lineHeight": 1.8,
     "javascript.suggest.autoImports": true,
     "javascript.updateImportsOnFileMove.enabled": "always",
@@ -143,7 +144,7 @@ ____
         ".vscode": true
         // "node_modules": true
     },
-    "workbench.iconTheme": "symbols",
+    "workbench.iconTheme": "material-icon-theme",
     "update.mode": "start",
     "terminal.integrated.gpuAcceleration": "off",
     "terminal.integrated.defaultProfile.osx": "zsh",
@@ -200,7 +201,6 @@ ____
         ".monaco-workbench .monaco-list:not(.element-focused):focus:before": "display: none;"
     },
     "editor.scrollbar.vertical": "hidden",
-    //"workbench.editor.showTabs": "none",
     "explorer.sortOrder": "foldersNestsFiles",
     "explorer.fileNesting.patterns": {
         "package.json": ".eslint*, prettier*, tsconfig*, vite*, pnpm-lock*, bun.lockb, nest*",
@@ -273,16 +273,13 @@ ____
         "Usuario",
         "WEBPUSH"
     ],
-    "workbench.statusBar.visible": false,
     "terminal.integrated.defaultProfile.windows": "Command Prompt",
     "editor.wordWrap": "on",
     "files.autoSave": "afterDelay",
-    "window.menuBarVisibility": "toggle",
     "window.confirmSaveUntitledWorkspace": false,
     "editor.cursorSmoothCaretAnimation": "on",
     "editor.cursorBlinking": "smooth",
-    "terminal.integrated.defaultProfile.linux": "bash (2)",
-    "window.customTitleBarVisibility": "auto",
+    "terminal.integrated.defaultProfile.linux": "sh",
     "python.createEnvironment.trigger": "off",
     "terminal.integrated.profiles.linux": {
         "bash": {
@@ -305,6 +302,9 @@ ____
         },
         "bash (2)": {
             "path": "/usr/bin/bash"
+        },
+        "sh": {
+            "path": "/bin/sh"
         }
     },
     "editor.fontFamily": "Cascadia Code",
@@ -312,9 +312,19 @@ ____
     "editor.smoothScrolling": true,
     "workbench.layoutControl.enabled": false,
     "window.commandCenter": false,
+    "workbench.colorTheme": "Material Theme Darker",
+    "workbench.statusBar.visible": false,
+    "debug.javascript.defaultRuntimeExecutable": {
+        "pwa-node": "node"
+    },
+    "window.menuBarVisibility": "toggle",
+    "window.customTitleBarVisibility": "auto",
+    "workbench.editorAssociations": {
+        "{git,gitlens}:/**/*.{md,csv,svg}": "default"
+    },
+    "material-icon-theme.folders.theme": "specific",
     "workbench.editor.showTabs": "none",
     "workbench.editor.editorActionsLocation": "hidden",
-    "workbench.colorTheme": "Atom One Darker",
   }
   ```
 </details>
