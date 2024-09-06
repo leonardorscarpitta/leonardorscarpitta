@@ -43,7 +43,6 @@ ____
 {
     "workbench.startupEditor": "newUntitledFile",
     "editor.fontSize": 14,
-    "terminal.integrated.shell.linux": "/bin/zsh",
     "editor.lineHeight": 1.8,
     "javascript.suggest.autoImports": true,
     "javascript.updateImportsOnFileMove.enabled": "always",
@@ -131,7 +130,6 @@ ____
     ],
     "editor.semanticHighlighting.enabled": false,
     "breadcrumbs.enabled": false,
-    "workbench.productIconTheme": "fluent-icons",
     "gitlens.codeLens.authors.enabled": false,
     "editor.tabSize": 2,
     "security.workspace.trust.untrustedFiles": "newWindow",
@@ -147,8 +145,6 @@ ____
     "workbench.iconTheme": "material-icon-theme",
     "update.mode": "start",
     "terminal.integrated.gpuAcceleration": "off",
-    "terminal.integrated.defaultProfile.osx": "zsh",
-    "terminal.integrated.shell.osx": "/bin/zsh",
     "[jsonc]": {
         "editor.defaultFormatter": "vscode.json-language-features"
     },
@@ -273,13 +269,11 @@ ____
         "Usuario",
         "WEBPUSH"
     ],
-    "terminal.integrated.defaultProfile.windows": "Command Prompt",
     "editor.wordWrap": "on",
     "files.autoSave": "afterDelay",
     "window.confirmSaveUntitledWorkspace": false,
     "editor.cursorSmoothCaretAnimation": "on",
     "editor.cursorBlinking": "smooth",
-    "terminal.integrated.defaultProfile.linux": "sh",
     "python.createEnvironment.trigger": "off",
     "terminal.integrated.profiles.linux": {
         "bash": {
@@ -287,7 +281,7 @@ ____
             "icon": "terminal-bash"
         },
         "zsh": {
-            "path": "zsh"
+            "path": "/usr/bin/zsh"
         },
         "fish": {
             "path": "fish"
@@ -302,17 +296,16 @@ ____
         },
         "bash (2)": {
             "path": "/usr/bin/bash"
-        },
-        "sh": {
-            "path": "/bin/sh"
         }
     },
+    "terminal.integrated.defaultProfile.linux": "bash (2)",
+    "terminal.external.linuxExec": "/bin/zsh",
     "editor.fontFamily": "Cascadia Code",
     "workbench.list.smoothScrolling": true,
     "editor.smoothScrolling": true,
     "workbench.layoutControl.enabled": false,
     "window.commandCenter": false,
-    "workbench.colorTheme": "Material Theme Darker",
+    "workbench.colorTheme": "Aura Dracula Spirit",
     "workbench.statusBar.visible": false,
     "debug.javascript.defaultRuntimeExecutable": {
         "pwa-node": "node"
@@ -323,8 +316,8 @@ ____
         "{git,gitlens}:/**/*.{md,csv,svg}": "default"
     },
     "material-icon-theme.folders.theme": "specific",
-    "workbench.editor.showTabs": "none",
     "workbench.editor.editorActionsLocation": "hidden",
+    "workbench.sideBar.location": "right",
   }
   ```
 </details>
