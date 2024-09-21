@@ -15,8 +15,11 @@
 </div>
 
 ____
-#### 💻 **Hard Skills**:
-[![My Skills](https://skillicons.dev/icons?i=java,spring,py,cpp,cs,html,css,js,ts,react,next,linux,azure&perline=5)](https://skillicons.dev)
+#### 💻 **Linguagens de programação e softwares que utilizo atualmente**:
+[![My Skills](https://skillicons.dev/icons?i=java,spring,py,flask,cpp,linux,azure,docker,github,postman,mysql,postgres&perline=15)](https://skillicons.dev) <br>
+
+### 🎓 **Tenho um certo conhecimento**:
+[![My Skills](https://skillicons.dev/icons?i=arduino,cpp,html,css,js,tailwindcss,react,vite&perline=15)](https://skillicons.dev)
 
 ____
 <h4>
