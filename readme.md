@@ -5,6 +5,34 @@
 </div>
 <hr>
 
+<div align="center"> 
+  <h4>
+    <b>Sobre Mim:</b>
+  </h4>
+  
+Nasci em 2005, atualmente estou graduando Engenharia de Software na FIAP e a princípio pretendo me tornar um Desenvolvedor de Software, estou sempre disposto a me atualizar conforme as necessidades do mercado e aceitar críticas para evoluir cada vez mais! Comecei meus estudos em Fevereiro de 2024 pela própria faculdade e com auxílio da plataforma Alura. Apesar do foco em Desenvolvimento de Software, também tenho um bom conhecimento em metodologias ágeis como o Scrum! <br><br>
+<b>Idiomas:</b> Português, Inglês e Espanhol
+</div>
+
+<hr>
+
+<h3>
+  <b>📄 Projetos mais relevantes:</b>
+</h3>
+<hr>
+<h4> 
+  💻 <b>Linguagens de programação e softwares que utilizo atualmente</b>: 
+</h4>
+
+[![My Skills](https://skillicons.dev/icons?i=java,spring,linux,azure,docker,github,postman,mysql,postgres&theme=light)](https://skillicons.dev)
+
+<h4> 
+  🎓 <b>Tenho um certo conhecimento</b>:
+</h4>
+
+[![My Skills](https://skillicons.dev/icons?i=arduino,cpp,html,css,js,tailwindcss,react,vite,flask,py,nextjs&theme=light)](https://skillicons.dev)
+
+<hr>
 <div align="center">
 
   ### ↪ Estatísticas de Programação:
@@ -14,166 +42,10 @@
 
 </div>
 
-____
-#### 💻 **Linguagens de programação e softwares que utilizo atualmente**:
-[![My Skills](https://skillicons.dev/icons?i=java,spring,py,flask,cpp,linux,azure,docker,github,postman,mysql,postgres&perline=15)](https://skillicons.dev) <br>
-
-### 🎓 **Tenho um certo conhecimento**:
-[![My Skills](https://skillicons.dev/icons?i=arduino,cpp,html,css,js,tailwindcss,react,vite&perline=15)](https://skillicons.dev)
-
-____
-<h4>
-  <b>👤 Sobre Mim:</b>
-</h4>
-
-- Nasci em 2005, atualmente estou graduando Engenharia de Software na FIAP e a princípio pretendo me tornar um Desenvolvedor de Software, estou sempre disposto a me atualizar conforme as necessidades do mercado e aceitar críticas para evoluir cada vez mais! Comecei meus estudos em Fevereiro de 2024 pela própria faculdade e com auxílio da plataforma Alura. Apesar do foco em Desenvolvimento de Software, também tenho um bom conhecimento em metodologias ágeis como o Scrum!
-- <b>Idiomas:</b> **Português** || **Inglês** || **Espanhol**
-
-____
+<hr>
   
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/leonardorscarpitta/leonardorscarpitta/output/github-contribution-grid-snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/leonardorscarpitta/leonardorscarpitta/output/github-contribution-grid-snake.svg">
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/leonardorscarpitta/leonardorscarpitta/output/github-contribution-grid-snake.svg">
 </picture>
-<br><br>
-
-<hr>
-<details>
-  <summary>⚙ Configurações do VSCode (JSON)</summary>
-
-  ```
-{
-    "workbench.startupEditor": "newUntitledFile",
-    "editor.fontSize": 14,
-    "editor.lineHeight": 1.8,
-    "javascript.suggest.autoImports": true,
-    "javascript.updateImportsOnFileMove.enabled": "always",
-    "extensions.ignoreRecommendations": true,
-    "typescript.tsserver.log": "off",
-    "editor.cursorStyle": "line",
-    "editor.cursorWidth": 4,
-    "files.associations": {
-        ".env.*": "dotenv",
-        ".prettierrc": "json",
-        "*.css": "css"
-    },
-    "tailwindCSS.experimental.classRegex": [
-        [
-            "tv\\(([^)]*)\\)",
-            "[\"'`]([^\"'`]*).*?[\"'`]"
-        ]
-    ],
-    "editor.parameterHints.enabled": false,
-    "editor.renderLineHighlight": "gutter",
-    "typescript.updateImportsOnFileMove.enabled": "always",
-    "editor.suggestSelection": "first",
-    "explorer.confirmDelete": false,
-    "gitlens.codeLens.recentChange.enabled": false,
-    "[prisma]": {
-        "editor.formatOnSave": true
-    },
-    "typescript.suggest.autoImports": true,
-    "workbench.editor.labelFormat": "short",
-    "editor.fontWeight": "400",
-    "editor.fontLigatures": true,
-    "emmet.includeLanguages": {
-        "javascript": "javascriptreact"
-    },
-    "emmet.syntaxProfiles": {
-        "javascript": "jsx"
-    },
-    "editor.acceptSuggestionOnCommitCharacter": false,
-    "explorer.compactFolders": false,
-    "git.enableSmartCommit": true,
-    "editor.accessibilitySupport": "off",
-    "explorer.confirmDragAndDrop": false,
-    "terminal.integrated.fontSize": 14,
-    "terminal.integrated.fontFamily": "Cascadia Code",
-    "editor.codeActionsOnSave": {
-        "source.fixAll.eslint": "explicit"
-    },
-    "eslint.validate": [
-        "javascript",
-        "javascriptreact",
-        "graphql"
-    ],
-    "editor.semanticHighlighting.enabled": false,
-    "breadcrumbs.enabled": false,
-    "gitlens.codeLens.authors.enabled": false,
-    "editor.tabSize": 4,
-    "security.workspace.trust.untrustedFiles": "newWindow",
-    "files.exclude": {
-        "**\/CVS": true,
-        "**\/.DS_Store": true,
-        "**\/.hg": true,
-        "**\/.svn": true,
-        "**\/.git": true,
-        ".vscode": true,
-        //"node_modules": true
-    },
-    "workbench.iconTheme": "symbols",
-    "update.mode": "start",
-    "terminal.integrated.gpuAcceleration": "off",
-    "[jsonc]": {
-        "editor.defaultFormatter": "vscode.json-language-features"
-    },
-    "[json]": {
-        "editor.defaultFormatter": "vscode.json-language-features"
-    },
-    "git.openRepositoryInParentFolders": "always",
-    "[javascript]": {
-        "editor.defaultFormatter": "vscode.typescript-language-features"
-    },
-    "workbench.editor.empty.hint": "hidden",
-    "update.showReleaseNotes": false,
-    "security.promptForLocalFileProtocolHandling": false,
-    "workbench.activityBar.location": "hidden",
-    "editor.hideCursorInOverviewRuler": true,
-    "editor.minimap.enabled": false,
-    "window.titleBarStyle": "native",
-    "editor.scrollbar.vertical": "hidden",
-    "explorer.sortOrder": "foldersNestsFiles",
-    "explorer.fileNesting.patterns": {
-        "package.json": ".eslint*, prettier*, tsconfig*, vite*, pnpm-lock*, bun.lockb, nest*",
-        "tailwind.config.js": "tailwind.config*, postcss.config*",
-        ".env.local": ".env*",
-        ".env": ".env*"
-    },
-    "explorer.fileNesting.enabled": true,
-    "editor.wordWrap": "on",
-    "files.autoSave": "afterDelay",
-    "window.confirmSaveUntitledWorkspace": false,
-    "editor.cursorSmoothCaretAnimation": "on",
-    "editor.cursorBlinking": "smooth",
-    "python.createEnvironment.trigger": "off",
-    "terminal.integrated.profiles.windows": {
-        "zsh": {
-            "path": "/usr/bin/zsh"
-        },
-    },
-    "terminal.integrated.defaultProfile.osx": null,
-    "terminal.integrated.defaultProfile.windows": null,
-    "editor.fontFamily": "CascadiaCode",
-    "workbench.list.smoothScrolling": true,
-    "editor.smoothScrolling": true,
-    "workbench.layoutControl.enabled": false,
-    "window.commandCenter": false,
-    "workbench.colorTheme": "Aura Dracula Spirit",
-    "workbench.statusBar.visible": false,
-    "debug.javascript.defaultRuntimeExecutable": {
-        "pwa-node": "node"
-    },
-    "window.menuBarVisibility": "toggle",
-    "window.customTitleBarVisibility": "auto",
-    "workbench.editorAssociations": {
-        "{git,gitlens}:/**/*.{md,csv,svg}": "default"
-    },
-    "material-icon-theme.folders.theme": "specific",
-    "workbench.editor.editorActionsLocation": "hidden",
-    "workbench.sideBar.location": "right",
-    "workbench.editor.showTabs": "single",
-    "workbench.productIconTheme": "fluent-icons",
-  }
-  ```
-</details>
