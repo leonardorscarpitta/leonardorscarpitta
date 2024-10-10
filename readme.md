@@ -24,13 +24,14 @@ Nasci em 2005, atualmente estou graduando Engenharia de Software na FIAP e a pri
   💻 <b>Linguagens de programação e softwares que utilizo atualmente</b>: 
 </h4>
 
-[![My Skills](https://skillicons.dev/icons?i=java,spring,linux,azure,docker,github,postman,mysql,postgres&theme=light)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=java,spring,linux,azure,docker,github,postman,mysql,postgres&theme=light)](https://skillicons.dev) <br>
+[![My Skills](https://skillicons.dev/icons?i=html,css,nextjs,react,vite,tailwindcss&theme=light)](https://skillicons.dev)
 
 <h4> 
   🎓 <b>Tenho um certo conhecimento</b>:
 </h4>
 
-[![My Skills](https://skillicons.dev/icons?i=arduino,cpp,html,css,js,tailwindcss,react,vite,flask,py,nextjs&theme=light)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=arduino,cpp,js,flask,py&theme=light)](https://skillicons.dev)
 
 <hr>
 <div align="center">
