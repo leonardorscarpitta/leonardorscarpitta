@@ -3,16 +3,20 @@
   
   [![LINKEDIN](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/leonardo-rocha-scarpitta-26a28629b/)
 </div>
+
 <hr>
 
-<div align="center"> 
-  <h4>
-    <b>Sobre Mim:</b>
-  </h4>
+### Sobre Mim
   
-Nasci em 2005, atualmente estou graduando Engenharia de Software na FIAP e a princípio pretendo me tornar um Desenvolvedor de Software, estou sempre disposto a me atualizar conforme as necessidades do mercado e aceitar críticas para evoluir cada vez mais! Comecei meus estudos em Fevereiro de 2024 pela própria faculdade e com auxílio da plataforma Alura. Apesar do foco em Desenvolvimento de Software, também tenho um bom conhecimento em metodologias ágeis como o Scrum! <br><br>
-<b>Idiomas:</b> Português, Inglês e Espanhol
-</div>
+🧑‍💻 Me chamo Leonardo, nascido em 2005, apaixonado pela tecnologia, pela leitura e o desenvolvimento pessoal. 
+
+💻 Tenho habilidades em Excel, Linguagens de Programação (principalmente o Python e Java), Linux, Microsoft Azure, controle de versionamento com Git e conceitos de programação orientada a objetos e funcional.
+
+🧑🏻‍🎓 Atualmente estou cursando Engenharia de Software na FIAP e a princípio pretendo me tornar um Desenvolvedor de Software. Comecei meus estudos em Fevereiro de 2024 pela própria faculdade e com auxílio da plataforma Alura (hoje em dia, prefiro utilizar da documentação).
+
+🆙 Estou sempre disposto a me atualizar conforme as necessidades do mercado e aceitar críticas para evoluir cada vez mais! 
+
+🐅 Apesar do foco em Desenvolvimento de Software, também tenho um bom conhecimento no ágilm como por exemplo o Scrum e certos conceitos do Kanban!
 
 <hr>
 
@@ -21,17 +25,18 @@ Nasci em 2005, atualmente estou graduando Engenharia de Software na FIAP e a pri
 </h3>
 <hr>
 <h4> 
-  💻 <b>Linguagens de programação e softwares que utilizo atualmente</b>: 
+  💻 <b>Minha Stack Atual</b>: 
 </h4>
 
-[![My Skills](https://skillicons.dev/icons?i=java,spring,linux,azure,docker,github,postman,mysql,postgres&theme=light)](https://skillicons.dev) <br>
-[![My Skills](https://skillicons.dev/icons?i=html,css,nextjs,react,vite,tailwindcss&theme=light)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=java,spring,py,postgres&theme=light)](https://skillicons.dev) <br>
+[![My Skills](https://skillicons.dev/icons?i=linux,azure,docker,github,postman&theme=light)](https://skillicons.dev) <br>
 
 <h4> 
   🎓 <b>Tenho um certo conhecimento</b>:
 </h4>
 
-[![My Skills](https://skillicons.dev/icons?i=arduino,cpp,js,flask,py&theme=light)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=arduino,cpp,js,flask,mysql&theme=light)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,nextjs,react,vite,tailwindcss&theme=light)](https://skillicons.dev)
 
 <hr>
 <div align="center">
