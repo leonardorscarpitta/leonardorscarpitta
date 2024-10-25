@@ -28,15 +28,7 @@
   💻 <b>Minha Stack Atual</b>: 
 </h4>
 
-[![My Skills](https://skillicons.dev/icons?i=java,spring,py,postgres&theme=light)](https://skillicons.dev) <br>
-[![My Skills](https://skillicons.dev/icons?i=linux,azure,docker,github,postman&theme=light)](https://skillicons.dev) <br>
-
-<h4> 
-  🎓 <b>Tenho um certo conhecimento</b>:
-</h4>
-
-[![My Skills](https://skillicons.dev/icons?i=arduino,cpp,js,flask,mysql&theme=light)](https://skillicons.dev)
-[![My Skills](https://skillicons.dev/icons?i=html,css,nextjs,react,vite,tailwindcss&theme=light)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=java,spring,py,postgres,linux,azure,docker,git,postman=dark)](https://skillicons.dev) <br>
 
 <hr>
 <div align="center">
