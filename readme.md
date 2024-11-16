@@ -23,10 +23,12 @@
 ### 📄 Projetos mais relevantes:
 
 [iot-project](https://github.com/leonardorscarpitta/iot-project): Com o uso de **C++**, **Docker**, **Microsoft Azure** e **Arduino**, desenvolvi um módulo que realiza as coletas de Umidade, Luminosidade e Temperatura para um case simulado de um sistema controlado de adegas e envia essas informações para um serviço Cloud. <br><br>
-[todolist-api](https://github.com/leonardorscarpitta/todolistApi): Na parte de Java e Spring Boot, desenvolvi uma API para ser utilizada em um controle de gerenciamento de tarefas.
+[todolist-api](https://github.com/leonardorscarpitta/todolistApi):Utilizando Java com Spring Boot, desenvolvi uma API para ser utilizada em um controle de gerenciamento de tarefas.
 
 <hr>
 
 ### 💻 Minha Stack Atual:
 
-[![My Skills](https://skillicons.dev/icons?i=java,spring,py,postgres,linux,azure,docker,git,postman=dark)](https://skillicons.dev) <br>
+[![My Skills](https://skillicons.dev/icons?i=java,spring,cpp,py,=dark)](https://skillicons.dev) <br>
+[![My Skills](https://skillicons.dev/icons?i=linux,azure,docker,git,=dark)](https://skillicons.dev) <br>
+[![My Skills](https://skillicons.dev/icons?i=mysql,postgres,=dark)](https://skillicons.dev) <br>
