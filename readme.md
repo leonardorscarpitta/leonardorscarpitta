@@ -29,6 +29,6 @@
 
 ### 💻 Minha Stack Atual:
 
-[![My Skills](https://skillicons.dev/icons?i=java,spring,cpp,py,=dark)](https://skillicons.dev) <br>
+[![My Skills](https://skillicons.dev/icons?i=java,spring,py,=dark)](https://skillicons.dev) <br>
 [![My Skills](https://skillicons.dev/icons?i=linux,azure,docker,git,=dark)](https://skillicons.dev) <br>
 [![My Skills](https://skillicons.dev/icons?i=mysql,postgres,=dark)](https://skillicons.dev) <br>
