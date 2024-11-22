@@ -26,9 +26,8 @@
 [todolist-api](https://github.com/leonardorscarpitta/todolistApi):Utilizando Java com Spring Boot, desenvolvi uma API para ser utilizada em um controle de gerenciamento de tarefas.
 
 <hr>
-
-### 💻 Minha Stack Atual:
-
-[![My Skills](https://skillicons.dev/icons?i=java,spring,py,=dark)](https://skillicons.dev) <br>
-[![My Skills](https://skillicons.dev/icons?i=linux,azure,docker,git,=dark)](https://skillicons.dev) <br>
-[![My Skills](https://skillicons.dev/icons?i=mysql,postgres,=dark)](https://skillicons.dev) <br>
+<div align="center">
+  <h3>💻 Tecnologias que eu utilizo:</h3>
+  
+  [![My Skills](https://skillicons.dev/icons?i=java,spring,py,linux,docker,aws,azure,postgresql,mysql&perline=15)](https://skillicons.dev)
+</div>
