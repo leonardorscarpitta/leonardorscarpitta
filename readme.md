@@ -29,5 +29,5 @@
 <div align="center">
   <h3>💻 Tecnologias que eu utilizo:</h3>
   
-  [![My Skills](https://skillicons.dev/icons?i=cs,dotnet,py,linux,docker,azure,mysql&perline=15)]([https://skillicons.dev](https://www.linkedin.com/in/leonardorscarpitta/))
+  [![My Skills](https://skillicons.dev/icons?i=java,spring,py,linux,docker,azure,mysql&perline=15)]([https://skillicons.dev](https://www.linkedin.com/in/leonardorscarpitta/))
 </div>
