@@ -6,17 +6,17 @@
 
 <hr>
 
-### Sobre Mim
+### 😃 Sobre Mim
   
-🧑‍💻 Me chamo Leonardo, nascido em 2005, apaixonado pela tecnologia, pela leitura e o desenvolvimento pessoal. 
+Me chamo Leonardo, nascido em 2005, apaixonado pela tecnologia, pela leitura e o desenvolvimento pessoal. 
 
-💻 Tenho habilidades em Excel, Linguagens de Programação (principalmente o Python e Java), Linux, Microsoft Azure, controle de versionamento com Git e conceitos de programação orientada a objetos e funcional.
+Tenho habilidades em Excel, Linguagens de Programação (principalmente o Python e Java), Linux, Microsoft Azure, controle de versionamento com Git e conceitos de programação orientada a objetos e funcional.
 
-🧑🏻‍🎓 Atualmente estou cursando Engenharia de Software na FIAP e a princípio pretendo me tornar um Desenvolvedor de Software. Comecei meus estudos em Fevereiro de 2024 pela própria faculdade e com auxílio da plataforma Alura (hoje em dia, prefiro utilizar da documentação).
+Atualmente estou cursando Engenharia de Software na FIAP e a princípio pretendo me tornar um Desenvolvedor de Software. Comecei meus estudos em Fevereiro de 2024 pela própria faculdade e com auxílio da plataforma Alura (hoje em dia, prefiro utilizar da documentação).
 
-🆙 Estou sempre disposto a me atualizar conforme as necessidades do mercado e aceitar críticas para evoluir cada vez mais! 
+Estou sempre disposto a me atualizar conforme as necessidades do mercado e aceitar críticas para evoluir cada vez mais! 
 
-🐅 Apesar do foco em Desenvolvimento de Software, também tenho um bom conhecimento no ágilm como por exemplo o Scrum e certos conceitos do Kanban!
+Apesar do foco em Desenvolvimento de Software, também tenho um bom conhecimento no ágilm como por exemplo o Scrum e certos conceitos do Kanban!
 
 <hr>
 
@@ -29,5 +29,5 @@
 <div align="center">
   <h3>💻 Tecnologias que eu utilizo:</h3>
   
-  [![My Skills](https://skillicons.dev/icons?i=java,spring,py,linux,docker,azure,mysql&perline=15)]([https://skillicons.dev](https://www.linkedin.com/in/leonardorscarpitta/))
+  [![My Skills](https://skillicons.dev/icons?i=cs,dotnet,py,linux,docker,azure,mysql&perline=15)]([https://skillicons.dev](https://www.linkedin.com/in/leonardorscarpitta/))
 </div>
