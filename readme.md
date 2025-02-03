@@ -1,33 +1,23 @@
-<div align="center">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Cascadia+Mono&weight=600&duration=2000&pause=1000&color=D600CF&center=true&vCenter=true&width=435&lines=%3C%2F%3E+Software Eng. Student;%3C%2F%3E+Estudante+de+Eng.+de+Software" alt="Typing SVG" /></a>
-  
-  [![LINKEDIN](https://img.shields.io/badge/LinkedIn-0A66C2.svg?style=for-the-badge&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/leonardo-rocha-scarpitta-26a28629b/)
-</div>
+### 📌 Sobre
+É um prazer lhe receber em meu perfil! Nasci em 2005 e atualmente sou um Desenvolvedor Back End, utilizo **Java** e **Spring** nas aplicações em que eu desenvolvo, por ser uma linguagem multiplataforma, conter uma segurança de alto nível e dar uma ótima base para caso no futuro seja necessária uma migração para o Kotlin, e apesar do foco no Back, por causa da faculdade, também possuo um conhecimento na área de Front End com ReactJS (NextJS)
 
-<hr>
+### 🔧 Tecnologias & Ferramentas
 
-### 😃 Sobre Mim
-  
-Me chamo Leonardo, nascido em 2005, apaixonado pela tecnologia, pela leitura e o desenvolvimento pessoal. 
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
+![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white)
+![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
 
-Tenho habilidades em Excel, Linguagens de Programação (principalmente o Python e Java), Linux, Microsoft Azure, controle de versionamento com Git e conceitos de programação orientada a objetos e funcional.
 
-Atualmente estou cursando Engenharia de Software na FIAP e a princípio pretendo me tornar um Desenvolvedor de Software. Comecei meus estudos em Fevereiro de 2024 pela própria faculdade e com auxílio da plataforma Alura (hoje em dia, prefiro utilizar da documentação).
+### 📊 Métricas - GitHub
+![leonardorscarpitta's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=leonardorscarpitta&theme=kacho_ga&show_icons=true&hide_border=true&layout=compact)
 
-Estou sempre disposto a me atualizar conforme as necessidades do mercado e aceitar críticas para evoluir cada vez mais! 
+### 📂 Projetos em Destaque
+- [IOT - Internet of Thing](https://github.com/leonardorscarpitta/iot-project): Com o uso de **C++**, **Docker**, **Microsoft Azure** e **Arduino**, desenvolvi um módulo que realiza as coletas de Umidade, Luminosidade e Temperatura para um case simulado de um sistema controlado de adegas e envia essas informações para um serviço Cloud. <br>
+- [Sistema de a fazeres](https://github.com/leonardorscarpitta/todolistApi): Utilizando Java com Spring Boot, desenvolvi uma API para ser utilizada em um controle de gerenciamento de tarefas.
 
-Apesar do foco em Desenvolvimento de Software, também tenho um bom conhecimento no ágilm como por exemplo o Scrum e certos conceitos do Kanban!
-
-<hr>
-
-### 📄 Projetos mais relevantes:
-
-[iot-project](https://github.com/leonardorscarpitta/iot-project): Com o uso de **C++**, **Docker**, **Microsoft Azure** e **Arduino**, desenvolvi um módulo que realiza as coletas de Umidade, Luminosidade e Temperatura para um case simulado de um sistema controlado de adegas e envia essas informações para um serviço Cloud. <br><br>
-[todolist-api](https://github.com/leonardorscarpitta/todolistApi):Utilizando Java com Spring Boot, desenvolvi uma API para ser utilizada em um controle de gerenciamento de tarefas.
-
-<hr>
-<div align="center">
-  <h3>💻 Tecnologias que eu utilizo:</h3>
-  
-  [![My Skills](https://skillicons.dev/icons?i=java,spring,py,linux,docker,azure,mysql&perline=15)]([https://skillicons.dev](https://www.linkedin.com/in/leonardorscarpitta/))
-</div>
+### 📫 Contato
+Se interessou pelo meu perfil? Não deixe de entrar em contato comigo pelo [Linkedin](https://www.linkedin.com/in/leonardo-rocha-scarpitta-26a28629b/)!
