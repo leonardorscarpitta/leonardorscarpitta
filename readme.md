@@ -16,7 +16,7 @@
 ![leonardorscarpitta's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=leonardorscarpitta&theme=kacho_ga&show_icons=true&hide_border=true&layout=compact)
 
 ### 📂 Projetos em Destaque
-- [IOT - Internet of Thing](https://github.com/leonardorscarpitta/iot-project): Com o uso de **C++**, **Docker**, **Microsoft Azure** e **Arduino**, desenvolvi um módulo que realiza as coletas de Umidade, Luminosidade e Temperatura para um case simulado de um sistema controlado de adegas e envia essas informações para um serviço Cloud. <br>
+- [IOT - Internet of Things](https://github.com/leonardorscarpitta/iot-project): Com o uso de **C++**, **Docker**, **Microsoft Azure** e **Arduino**, desenvolvi um módulo que realiza as coletas de Umidade, Luminosidade e Temperatura para um case simulado de um sistema controlado de adegas e envia essas informações para um serviço Cloud. <br>
 - [Sistema de a fazeres](https://github.com/leonardorscarpitta/todolistApi): Utilizando Java com Spring Boot, desenvolvi uma API para ser utilizada em um controle de gerenciamento de tarefas.
 
 ### 📫 Contato
