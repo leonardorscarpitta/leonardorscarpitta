@@ -12,6 +12,6 @@ Apesar do foco no Back-End, minha jornada na faculdade também me proporcionou e
 #### Back End e Banco de Dados
 [![My Skills](https://skillicons.dev/icons?i=java,spring,py&perline=10)](https://skillicons.dev)
 #### Front End
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,react,nextjs,tailwindcss,figma&perline=10)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,tailwindcss,figma&perline=10)](https://skillicons.dev)
 #### Server & Deploy
 [![My Skills](https://skillicons.dev/icons?i=linux,docker,aws,vercel&perline=10)](https://skillicons.dev)
