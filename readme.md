@@ -12,7 +12,12 @@ Apesar do foco no Back-End, minha jornada na faculdade também me proporcionou e
   
 ### ⚓ Tecnologias & Ferramentas
 
-[![My Skills](https://skillicons.dev/icons?i=java,spring,py,linux,docker,aws,vercel,html,css,js,tailwindcss,figma&perline=20)](https://skillicons.dev)
+### Back End
+[![My Skills](https://skillicons.dev/icons?i=java,spring,py&perline=20)](https://skillicons.dev)
+### Front End
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,tailwindcss,figma&perline=20)](https://skillicons.dev)
+### Cloud Services
+[![My Skills](https://skillicons.dev/icons?i=linux,docker,aws,vercel&perline=20)](https://skillicons.dev)
 ___
   
 ![leonardorscarpitta's Stats](https://github-readme-stats.vercel.app/api?username=leonardorscarpitta&theme=synthwave&show_icons=true&hide_border=false&count_private=true)
