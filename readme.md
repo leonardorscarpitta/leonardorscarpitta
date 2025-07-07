@@ -11,8 +11,5 @@
   ### ⚓ Stack e Ferramentas
   
   [![My Skills](https://skillicons.dev/icons?i=java,spring,postgres,py,js,tailwindcss,angular,linux,docker,azure&perline=13)](https://skillicons.dev)
-  ___
-    
-  ![leonardorscarpitta's Stats](https://github-readme-stats.vercel.app/api?username=leonardorscarpitta&theme=synthwave&show_icons=true&hide_border=false&count_private=true)
   
 </div>
