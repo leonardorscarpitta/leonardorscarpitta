@@ -10,6 +10,10 @@
     
   ### ⚓ Stack e Ferramentas
   
-  [![My Skills](https://skillicons.dev/icons?i=java,spring,postgres,py,js,tailwindcss,angular,linux,docker,azure&perline=13)](https://skillicons.dev)
+  [![My Skills](https://skillicons.dev/icons?i=java,spring,postgres,py,ts,tailwindcss,angular,linux,docker,azure&perline=13)](https://skillicons.dev)
+
+### 🔰 GitHub Status
+  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=leonardorscarpitta&show_icons=true&theme=gruvbox)
   
 </div>
+
