@@ -1,21 +1,20 @@
-<div align="center">
-  
-  ![github-banner](https://github.com/user-attachments/assets/f9a3dd47-b570-4a1b-ba46-88017eb0415e)
-    
-  ### 📫 Contato
-  Se interessou pelo meu perfil? Não deixe de entrar em contato comigo pelo [Linkedin](https://www.linkedin.com/in/leonardo-rocha-scarpitta-26a28629b/)! Lá é onde compartilho o conhecimento que vou adiquirindo também!
-  
-  ### 📌 Sobre
-  É um prazer lhe receber em meu perfil do GitHub! Atualmente tenho o foco na área de **DevOps**, busco sempre me atualizar sobre as ferramentas que utilizo e as boas práticas que o mercado utiliza, além disso tenho também conhecimento do desenvolvimento Back End.
-    
-  ### ⚓ Stack e Ferramentas
-  
-  [![My Skills](https://skillicons.dev/icons?i=java,spring,postgres,py,bash,docker,kubernetes,linux,aws&perline=13)](https://skillicons.dev)
+### About Me
+- Currently in an intern role at [Samsung SDS Latin America](https://www.samsungsds.com/la/index.html)
+- Graduating Software Engineer at [FIAP](https://www.fiap.com.br/graduacao/bacharelado/engenharia-de-software/?utm_term=&utm_campaign=&hsa_kw=&hsa_mt=&gad_campaignid=21102294227)
+- Studying to become a **DevOps** engineer
+- Also run a [YouTube](https://www.youtube.com/@leonardorscarpitta) channel which I plan to post videos sharing my evolution in `pt-BR` with `en` captions
 
-### 🔰 GitHub Status
-  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=leonardorscarpitta&show_icons=true&theme=gruvbox)
-  
-</div>
+### Tools & Knowledge
+- Rest API (Java + Spring)
+- AWS
+- Ansible
+- Docker
+- Kubernetes
+- CI/CD with GitHub actions;
 
+### Main repositories
+- [manifests-k8s](https://github.com/leonardorscarpitta/manifests-k8s): A manifest repository which I use as a storage to all my Kubernetes `.yaml` files
+- [iot-project](https://github.com/leonardorscarpitta/iot-project): A project that uses MQTT protocol to send data using both DTH & LDR sensors
 
-
+### Contact
+- [LinkedIn](https://www.linkedin.com/in/leonardorscarpitta/) 
