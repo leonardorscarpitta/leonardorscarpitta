@@ -4,7 +4,7 @@
 
 ### 📌 Sobre Mim
 - Atualmente estou em um estágio na [Samsung SDS Latin America](https://www.samsungsds.com/la/index.html)
-- Graduando no segundo ano de **Engenharia de Software** na [FIAP](https://www.fiap.com.br/graduacao/bacharelado/engenharia-de-software/?utm_term=&utm_campaign=&hsa_kw=&hsa_mt=&gad_campaignid=21102294227)
+- Cursando **Engenharia de Software** na [FIAP](https://www.fiap.com.br/graduacao/bacharelado/engenharia-de-software/?utm_term=&utm_campaign=&hsa_kw=&hsa_mt=&gad_campaignid=21102294227)
 - Estudando para me tornar um **Engenheiro DevOps**
 
 ### 🔧 Stack
