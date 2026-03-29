@@ -23,6 +23,5 @@
 | [iot-project](https://github.com/leonardorscarpitta/iot-project) | Um projeto que utiliza o protocolo MQTT para transferência de dados de luminosidade, umidade e temperatura utilizando o DHT-22 e o LDR |
 
 ### Contato
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/leonardorscarpitta/) <br>
-![Medium](https://img.shields.io/badge/Medium-12100E?style=flat&logo=medium&logoColor=white)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/leonardorscarpitta/) [![Medium](https://img.shields.io/badge/Medium-12100E?style=flat&logo=medium&logoColor=white)](https://medium.com/@leonardorscarpitta)
 
