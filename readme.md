@@ -3,7 +3,7 @@
 <div align=left>
   <a href="readme-en.md">
     <img src="https://upload.wikimedia.org/wikipedia/en/thumb/a/ae/Flag_of_the_United_Kingdom.svg/330px-Flag_of_the_United_Kingdom.svg.png" height=10>
-    Are you a non portuguese speaker? Switch to <b>English</b>
+    <b>English</b>
   </a>
 </div>
 <br>

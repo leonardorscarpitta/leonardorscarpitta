@@ -3,7 +3,7 @@
 <div align=left>
   <a href="readme-en.md">
     <img src="https://upload.wikimedia.org/wikipedia/en/0/05/Flag_of_Brazil.svg" height=10>
-    Não é um falante de inglês? Verifique o README em <b>Português</b>
+    <b>Português</b>
   </a>
 </div>
 <br>
